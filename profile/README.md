@@ -6,17 +6,17 @@ Source code of some commercial games, with useful information.
 
 "Convenient Port"s are ports that restructured/updated to make it easier to understand/build, while being faithful to the original.
 
-| Name                                                           |  Year   | Platform |  Language  |      Developer      |          Convenient port(s)          |
-| -------------------------------------------------------------- | :-----: | :------: | :--------: | :-----------------: | :----------------------------------: |
-| [Hägar The Horrible][Hägar The Horrible]                       |  1992   |   C64    |    ASM     |    Kingsoft GmbH    |                                      |
-| [Catacomb][Catacomb]                                           |  1990   |    PC    | Pascal/ASM |      Softdisk       |                                      |
-| [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]       |  1990   |    PC    |   C/ASM    |      Softdisk       |      [CatacombSDL][CatacombSDL]      |
-| [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |    PC    |   C/ASM    |     id Software     |                                      |
-| [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |    PC    |   C/ASM    |     id Software     |                                      |
-| [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |    PC    |   C/ASM    |     id Software     |                                      |
-| [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |    PC    |   C/ASM    |    Ken Silverman    |        [LAB3D/SDL][LAB3D/SDL]        |
-| [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |    PC    |   C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D] |
-| [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |    PC    |   C/ASM    | Mind Shear Software |                                      |
+| Name                                                           |  Year   | Platform |  Language  |      Developer      |                                        Convenient port(s)                                         |
+| -------------------------------------------------------------- | :-----: | :------: | :--------: | :-----------------: | :-----------------------------------------------------------------------------------------------: |
+| [Hägar The Horrible][Hägar The Horrible]                       |  1992   |   C64    |    ASM     |    Kingsoft GmbH    |                                                                                                   |
+| [Catacomb][Catacomb]                                           |  1990   |    PC    | Pascal/ASM |      Softdisk       |                                                                                                   |
+| [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]       |  1990   |    PC    |   C/ASM    |      Softdisk       |                                    [CatacombSDL][CatacombSDL]                                     |
+| [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |    PC    |   C/ASM    |     id Software     |                                                                                                   |
+| [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |    PC    |   C/ASM    |     id Software     |                                                                                                   |
+| [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |    PC    |   C/ASM    |     id Software     |                                                                                                   |
+| [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |    PC    |   C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
+| [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |    PC    |   C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
+| [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |    PC    |   C/ASM    | Mind Shear Software |                                                                                                   |
 
 <!-- Sources; keep in the same order as the table -->
 
@@ -34,6 +34,7 @@ Source code of some commercial games, with useful information.
 
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
+[JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
 
 ## Additional informations
