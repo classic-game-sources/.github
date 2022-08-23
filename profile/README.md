@@ -21,15 +21,15 @@ Source code of some commercial games, with useful information.
 
 <!-- Sources; keep in the same order as the table -->
 
-[Catacomb 3-D]: https://github.com/commercial-game-sources/catacomb_3d
-[Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
-[Catacomb]: https://github.com/commercial-game-sources/catacomb
-[Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
+[Catacomb]: https://github.com/commercial-game-sources/catacomb
+[Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
-[In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
+[Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
+[Catacomb 3-D]: https://github.com/commercial-game-sources/catacomb_3d
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
+[In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
 
 <!-- Convenient ports; keep in alphabetic order -->
