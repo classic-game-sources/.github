@@ -8,6 +8,7 @@ The ports list includes those who are updated to make the project easier to unde
 
 | Name                                                           |  Year   |  Platf./Lang.  |      Developer      |                                              Port(s)                                              |
 | -------------------------------------------------------------- | :-----: | :------------: | :-----------------: | :-----------------------------------------------------------------------------------------------: |
+| [Rogue][Rogue]                                                 |  1980   |   PC, C/ASM    |     A.I. Design     |                                        [ROGUEPC][ROGUEPC]                                         |
 | [Hägar The Horrible][Hägar The Horrible]                       |  1992   |    C64, ASM    |    Kingsoft GmbH    |                                                                                                   |
 | [Catacomb][Catacomb]                                           |  1990   | PC, Pascal/ASM |      Softdisk       |                                                                                                   |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]       |  1990   |   PC, C/ASM    |      Softdisk       |                                    [CatacombSDL][CatacombSDL]                                     |
@@ -22,6 +23,7 @@ The ports list includes those who are updated to make the project easier to unde
 
 <!-- Sources; keep in the same order as the table -->
 
+[Rogue]: https://github.com/commercial-game-sources/rogue
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Catacomb]: https://github.com/commercial-game-sources/catacomb
 [Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
@@ -41,6 +43,7 @@ The ports list includes those who are updated to make the project easier to unde
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
+[ROGUEPC]: https://github.com/MestreLion/roguepc
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
 
