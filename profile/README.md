@@ -45,3 +45,4 @@ Source code of some commercial games, with useful information.
 - Build Engine
   - Some informations on Ken Silverman's [official page](http://www.advsys.net/ken/buildsrc/default.htm)
   - [Architectural analysis](https://fabiensanglard.net/duke3d) by Fabien Sanglard
+  - [JonoF's Build Engine Port](https://github.com/jonof/jfbuild)
