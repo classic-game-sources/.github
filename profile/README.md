@@ -17,6 +17,7 @@ Source code of some commercial games, with useful information.
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |    PC    |   C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |    PC    |   C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |    PC    |   C/ASM    | Mind Shear Software |                                                                                                   |
+| [Shadow Warrior][Shadow Warrior]                               | 1997/05 |    PC    |   C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 
 <!-- Sources; keep in the same order as the table -->
 
@@ -29,12 +30,14 @@ Source code of some commercial games, with useful information.
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
+[Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
 
 <!-- Convenient ports; keep in alphabetic order -->
 
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
+[JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
 
 ## Additional informations
