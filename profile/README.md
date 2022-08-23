@@ -11,9 +11,9 @@ The ports list includes those who are updated to make the project easier to unde
 | [Rogue][Rogue]                                                 |  1980   |   PC, C/ASM    |     A.I. Design     |                                        [ROGUEPC][ROGUEPC]                                         |
 | [Catacomb][Catacomb]                                           |  1990   | PC, Pascal/ASM |      Softdisk       |                                                                                                   |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]       |  1990   |   PC, C/ASM    |      Softdisk       |                                    [CatacombSDL][CatacombSDL]                                     |
-| [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |   PC, C/ASM    |     id Software     |                                                                                                   |
-| [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |   PC, C/ASM    |     id Software     |                                                                                                   |
-| [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |   PC, C/ASM    |     id Software     |                                                                                                   |
+| [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |   PC, C/ASM    |     id Software     |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
+| [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |   PC, C/ASM    |     id Software     |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
+| [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |   PC, C/ASM    |     id Software     |                             [Reflection Catacomb 3-D][ReflectionHLE]                              |
 | [Hägar The Horrible][Hägar The Horrible]                       |  1992   |    C64, ASM    |    Kingsoft GmbH    |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |   PC, C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Rise of the Triad][Rise of the Triad]                         | 1994/12 |   PC, C/ASM    |      3D Realms      |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
@@ -42,10 +42,13 @@ The ports list includes those who are updated to make the project easier to unde
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
+[Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
+[ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
 [ROGUEPC]: https://github.com/MestreLion/roguepc
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
+[SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
 
 ## Additional informations
 
