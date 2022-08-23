@@ -1,6 +1,6 @@
-# Classic Game Sources
+# Commercial Game Sources
 
-Source codes of (more or less) classic games.
+Source code of some commercial games, with useful information.
 
 ## Content
 
