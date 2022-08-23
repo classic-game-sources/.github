@@ -4,9 +4,9 @@ Source code of some commercial games, with useful information.
 
 ## Content
 
-"Convenient Port"s are ports that restructured/updated to make it easier to understand/build, while being faithful to the original.
+The ports list includes those who are updated to make the project easier to understand/build, while being faithful to the original; ports adding/changing signficant features are generally not included.
 
-| Name                                                           |  Year   |  Platf./Lang.  |      Developer      |                                        Convenient port(s)                                         |
+| Name                                                           |  Year   |  Platf./Lang.  |      Developer      |                                              Port(s)                                              |
 | -------------------------------------------------------------- | :-----: | :------------: | :-----------------: | :-----------------------------------------------------------------------------------------------: |
 | [Hägar The Horrible][Hägar The Horrible]                       |  1992   |    C64, ASM    |    Kingsoft GmbH    |                                                                                                   |
 | [Catacomb][Catacomb]                                           |  1990   | PC, Pascal/ASM |      Softdisk       |                                                                                                   |
