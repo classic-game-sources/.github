@@ -49,10 +49,3 @@ The ports list includes those who are updated to make the project easier to unde
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
 [SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
-
-## Additional informations
-
-- Build Engine
-  - Some informations on Ken Silverman's [official page](http://www.advsys.net/ken/buildsrc/default.htm)
-  - [Architectural analysis](https://fabiensanglard.net/duke3d) by Fabien Sanglard
-  - [JonoF's Build Engine Port](https://github.com/jonof/jfbuild)
