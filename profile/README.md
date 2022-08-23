@@ -15,6 +15,7 @@ Source code of some commercial games, with useful information.
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |    PC    |   C/ASM    |     id Software     |                                                                                                   |
 | [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |    PC    |   C/ASM    |     id Software     |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |    PC    |   C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
+| [Rise of the Triad][Rise of the Triad]                         | 1994/12 |    PC    |   C/ASM    |      3D Realms      |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
 | [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |    PC    |   C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |    PC    |   C/ASM    | Mind Shear Software |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |    PC    |   C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
@@ -28,6 +29,7 @@ Source code of some commercial games, with useful information.
 [Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
 [Catacomb 3-D]: https://github.com/commercial-game-sources/catacomb_3d
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
+[Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
@@ -39,6 +41,8 @@ Source code of some commercial games, with useful information.
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
+[ROTT Port]: https://github.com/fabiangreffrath/rott
+[rottexpr]: https://github.com/LTCHIPS/rottexpr
 
 ## Additional informations
 
