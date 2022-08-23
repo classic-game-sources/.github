@@ -14,6 +14,7 @@ Source codes of (more or less) classic games.
 | [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |    PC    |   C/ASM    |     id Software     |                            |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |    PC    |   C/ASM    |     id Software     |                            |
 | [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |    PC    |   C/ASM    |     id Software     |                            |
+| [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |    PC    |   C/ASM    |    Ken Silverman    |   [LAB3D/SDL][LAB3D/SDL]   |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |    PC    |   C/ASM    | Mind Shear Software |                            |
 
 <!-- Sources; keep in the same order as the table -->
@@ -25,7 +26,9 @@ Source codes of (more or less) classic games.
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
+[Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 
 <!-- Convenient ports; keep in alphabetic order -->
 
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
+[LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
