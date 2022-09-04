@@ -9,6 +9,7 @@ The ports list includes those who are updated to make the project easier to unde
 | Name                                                           |  Year   |  Platf./Lang.  |      Developer      |                                              Port(s)                                              |
 | -------------------------------------------------------------- | :-----: | :------------: | :-----------------: | :-----------------------------------------------------------------------------------------------: |
 | [Rogue][Rogue]                                                 |  1980   |   PC, C/ASM    |     A.I. Design     |                                        [ROGUEPC][ROGUEPC]                                         |
+| [Double Dragon II][Double Dragon II]                           |  1989   |    PC, ASM     |    Binary Design    |                                                                                                   |
 | [Catacomb][Catacomb]                                           |  1990   | PC, Pascal/ASM |      Softdisk       |                                                                                                   |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]       |  1990   |   PC, C/ASM    |      Softdisk       |                                    [CatacombSDL][CatacombSDL]                                     |
 | [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |   PC, C/ASM    |     id Software     |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
@@ -24,6 +25,7 @@ The ports list includes those who are updated to make the project easier to unde
 <!-- Sources; keep in the same order as the table -->
 
 [Rogue]: https://github.com/commercial-game-sources/rogue
+[Double Dragon II]: https://github.com/commercial-game-sources/double_dragon_ii
 [Catacomb]: https://github.com/commercial-game-sources/catacomb
 [Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
