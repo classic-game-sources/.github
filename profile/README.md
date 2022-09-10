@@ -15,6 +15,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Hovertank 3D][Hovertank 3D]                                   | 1991/04 |   PC, C/ASM    |     id Software     |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams] |  1991   |   PC, C/ASM    |     id Software     |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
 | [Catacomb 3-D][Catacomb 3-D]                                   | 1991/11 |   PC, C/ASM    |     id Software     |                             [Reflection Catacomb 3-D][ReflectionHLE]                              |
+| [Wolfenstein 3D][Wolfenstein 3D]                               | 1992/05 |   PC, C/ASM    |     id Software     |                                       [Wolf4SDL][Wolf4SDL]                                        |
 | [Hägar The Horrible][Hägar The Horrible]                       |  1992   |    C64, ASM    |    Kingsoft GmbH    |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |   PC, C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                     |  1994   |    PC, ASM     | Revolution Software |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
@@ -32,6 +33,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
 [Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
 [Catacomb 3-D]: https://github.com/commercial-game-sources/catacomb_3d
+[Wolfenstein 3D]: https://github.com/commercial-game-sources/wolfenstein_3d
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
@@ -54,3 +56,4 @@ The ports list includes those who are updated to make the project easier to unde
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
 [SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
+[Wolf4SDL]: https://github.com/11001011101001011/Wolf4SDL
