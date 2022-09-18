@@ -20,6 +20,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |   PC, C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                     |  1994   |    PC, ASM     | Revolution Software |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
 | [Rise of the Triad][Rise of the Triad]                         | 1994/12 |   PC, C/ASM    |      3D Realms      |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
+| [Witchaven][Witchaven]                                         | 1995/09 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
 | [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |   PC, C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |   PC, C/ASM    | Mind Shear Software |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |   PC, C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
@@ -38,6 +39,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
 [Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
+[Witchaven]: https://github.com/commercial-game-sources/witchaven.git
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
