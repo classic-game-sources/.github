@@ -22,6 +22,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Rise of the Triad][Rise of the Triad]                         | 1994/12 |   PC, C/ASM    |      3D Realms      |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
 | [Witchaven][Witchaven]                                         | 1995/09 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
 | [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |   PC, C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
+| [Witchaven II][Witchaven II]                                   | 1996/05 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |   PC, C/ASM    | Mind Shear Software |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |   PC, C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 
@@ -41,6 +42,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
 [Witchaven]: https://github.com/commercial-game-sources/witchaven.git
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
+[Witchaven II]: https://github.com/commercial-game-sources/witchaven_ii.git
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
 
