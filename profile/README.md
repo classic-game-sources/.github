@@ -26,6 +26,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Witchaven II][Witchaven II]                                   | 1996/05 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |   PC, C/ASM    | Mind Shear Software |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |   PC, C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
+| [Penumbra Overture][Penumbra Overture]                         | 2007/03 |    PC, C++     |  Frictional Games   |                                                                                                   |
 
 <!-- Sources; keep in the same order as the table -->
 
@@ -47,6 +48,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Witchaven II]: https://github.com/commercial-game-sources/witchaven_ii.git
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
+[Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 
 <!-- Convenient ports; keep in alphabetic order -->
 
