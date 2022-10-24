@@ -9,6 +9,7 @@ The ports list includes those who are updated to make the project easier to unde
 | Name                                                           |  Year   |  Platf./Lang.  |      Developer      |                                              Port(s)                                              |
 | -------------------------------------------------------------- | :-----: | :------------: | :-----------------: | :-----------------------------------------------------------------------------------------------: |
 | [Rogue][Rogue]                                                 |  1980   |   PC, C/ASM    |     A.I. Design     |                                        [ROGUEPC][ROGUEPC]                                         |
+| Digger                                                         |  1983   |       ?        |  Windmill Software  |                              [Digger Remastered][Digger Remastered]                               |
 | [Double Dragon II][Double Dragon II]                           |  1989   |    PC, ASM     |    Binary Design    |                                                                                                   |
 | [Catacomb][Catacomb]                                           |  1990   | PC, Pascal/ASM |      Softdisk       |                                                                                                   |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]       |  1990   |   PC, C/ASM    |      Softdisk       |                                    [CatacombSDL][CatacombSDL]                                     |
@@ -57,6 +58,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
+[Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
