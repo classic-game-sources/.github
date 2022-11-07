@@ -29,6 +29,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |   PC, C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 | [Penumbra Overture][Penumbra Overture]                         | 2007/03 |    PC, C++     |  Frictional Games   |                                                                                                   |
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]         | 2010/09 |    PC, C++     |  Frictional Games   |                                                                                                   |
+| [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]     | 2013/09 |    PC, C++     |  Frictional Games   |                                                                                                   |
 
 <!-- Sources; keep in the same order as the table -->
 
@@ -52,6 +53,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
+[Amnesia: A Machine For Pigs]: https://github.com/commercial-game-sources/amnesia_a_machine_for_pigs
 
 <!-- Convenient ports; keep in alphabetic order -->
 
