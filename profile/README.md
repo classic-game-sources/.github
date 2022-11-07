@@ -21,6 +21,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Hägar The Horrible][Hägar The Horrible]                       |  1992   |    C64, ASM    |    Kingsoft GmbH    |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |   PC, C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                     |  1994   |    PC, ASM     | Revolution Software |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
+| [Blake Stone: Planet Strike][Blake Stone: Planet Strike]       | 1994/10 |   PC, C/ASM    |   JAM Productions   |                          [BStone](https://github.com/bibendovsky/bstone)                          |
 | [Rise of the Triad][Rise of the Triad]                         | 1994/12 |   PC, C/ASM    |      3D Realms      |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
 | [Witchaven][Witchaven]                                         | 1995/09 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
 | [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |   PC, C/ASM    |      3D Realms      | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
@@ -45,6 +46,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
+[Blake Stone: Planet Strike]: https://github.com/commercial-game-sources/blake_stone
 [Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
 [Witchaven]: https://github.com/commercial-game-sources/witchaven.git
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
@@ -58,6 +60,7 @@ The ports list includes those who are updated to make the project easier to unde
 <!-- Convenient ports; keep in alphabetic order -->
 
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
+[BStone]: https://github.com/bibendovsky/bstone
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
