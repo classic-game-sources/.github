@@ -21,6 +21,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Hägar The Horrible][Hägar The Horrible]                       |  1992   |    C64, ASM    |    Kingsoft GmbH    |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                             | 1993/01 |   PC, C/ASM    |    Ken Silverman    |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                     |  1994   |    PC, ASM     | Revolution Software |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
+| [Pinball Fantasies][Pinball Fantasies]                         |  1994   |    PC, ASM     |  FrontLine Design   |                                                                                                   |
 | [Blake Stone: Planet Strike][Blake Stone: Planet Strike]       | 1994/10 |   PC, C/ASM    |   JAM Productions   |                          [BStone](https://github.com/bibendovsky/bstone)                          |
 | [Rise of the Triad][Rise of the Triad]                         | 1994/12 |   PC, C/ASM    |      3D Realms      |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
 | [Witchaven][Witchaven]                                         | 1995/09 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
@@ -46,6 +47,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
+[Pinball Fantasies]: https://github.com/commercial-game-sources/pinball_fantasies
 [Blake Stone: Planet Strike]: https://github.com/commercial-game-sources/blake_stone
 [Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
 [Witchaven]: https://github.com/commercial-game-sources/witchaven.git
