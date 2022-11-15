@@ -29,6 +29,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Witchaven II][Witchaven II]                                   | 1996/05 |   PC, C/ASM    |  Capstone Software  |                                                                                                   |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |   PC, C/ASM    | Mind Shear Software |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |   PC, C/ASM    |      3D Realms      |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
+| [Forsaken][Forsaken]                                           |  1998   |   PC, C/C++    | Probe Entertainment |                                      [ForsakenX][ForsakenX]                                       |
 | [Penumbra Overture][Penumbra Overture]                         | 2007/03 |    PC, C++     |  Frictional Games   |                                                                                                   |
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]         | 2010/09 |    PC, C++     |  Frictional Games   |                                                                                                   |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]     | 2013/09 |    PC, C++     |  Frictional Games   |                                                                                                   |
@@ -55,6 +56,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Witchaven II]: https://github.com/commercial-game-sources/witchaven_ii.git
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
+[Forsaken]: https://github.com/commercial-game-sources/forsaken
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
 [Amnesia: A Machine For Pigs]: https://github.com/commercial-game-sources/amnesia_a_machine_for_pigs
@@ -66,6 +68,7 @@ The ports list includes those who are updated to make the project easier to unde
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
+[ForsakenX]: https://github.com/ForsakenX/forsaken
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
