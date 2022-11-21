@@ -29,6 +29,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [Duke Nukem 3D][Duke Nukem 3D]                                 | 1996/01 |   PC, C/ASM    |       3D Realms       | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
 | [Witchaven II][Witchaven II]                                   | 1996/05 |   PC, C/ASM    |   Capstone Software   |                                                                                                   |
 | [In Pursuit of Greed][In Pursuit of Greed]                     |  1996   |   PC, C/ASM    |  Mind Shear Software  |                                                                                                   |
+| [Little Big Adventure 2][Little Big Adventure 2]               | 1997/05 |    PC, ASM     | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                               | 1997/05 |   PC, C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 | [Forsaken][Forsaken]                                           |  1998   |   PC, C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
 | [Penumbra Overture][Penumbra Overture]                         | 2007/03 |    PC, C++     |   Frictional Games    |                                                                                                   |
@@ -57,6 +58,7 @@ The ports list includes those who are updated to make the project easier to unde
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
 [Witchaven II]: https://github.com/commercial-game-sources/witchaven_ii.git
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
+[Little Big Adventure 2]: https://github.com/commercial-game-sources/little_big_adventure_2
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
 [Forsaken]: https://github.com/commercial-game-sources/forsaken
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
